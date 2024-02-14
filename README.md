@@ -4,7 +4,7 @@ Spotify is an audio streaming media service. In 2010, only 35 percent of interne
 
  Our project will analyze Spotify’s underlying trends in the music industry from 2010 to 2019. The analysis will answer the following questions:
  
-•What is the average duration of songs based on genre? Is the difference between each average and the overall average statistically significant?
+What is the average duration of songs based on genre? Is the difference between each average and the overall average statistically significant?
 
 Are specific music keys favored? Has this changed over the 2010s? What does variation in the data look like by genre?
 
@@ -12,7 +12,7 @@ How much do acousticness, liveness, tempo, and valence vary between genres? How 
 
 Does competition affect song popularity?
 
-•	Is overall track popularity affected by the total number of track releases in the same month?
+Is overall track popularity affected by the total number of track releases in the same month?
 
 Our project is completed by a team of 4 members. After a brain storming session, we started with fitness and end up pursuing music. We faced challenges in obtaining an API-key and almost changed the project. But finally, with much perseverance we landed on a Spotify data set. We came up with interesting questions related to music and streaming industry. We collaborated, assign the responsibilities, and met a few times to review the results and had open communication on slack.
 Each member worked on 1 or 2 questions, providing analysis and  charts for better visualization. 
