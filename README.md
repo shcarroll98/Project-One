@@ -20,6 +20,10 @@ The team lead created the main file and each member created their individual bra
 The team lead also created google documents for the presentation and the one page summary. This allowed each member to update the files. 
 
 
-Resources
+Resources:
 https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
+
+Outputs:
+https://docs.google.com/document/d/1K1r8oNNJdF2BwQsVvwXXthXA3jVeDRz77yu9jjv0qnk/edit?usp=sharing
+https://docs.google.com/presentation/d/1i3mTu4yvklBcKaOf7oZISzM3c1ReNusiI3u2h50Fwmk/edit#slide=id.g2b808d09c4f_0_10
 
