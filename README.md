@@ -4,13 +4,13 @@ Spotify is an audio streaming media service. In 2010, only 35 percent of interne
 
  Our project will analyze Spotify’s underlying trends in the music industry from 2010 to 2019. The analysis will answer the following questions:
  
-•	How much do acousticness, liveness, tempo, and valence vary between genres? How did acousticness, liveness, tempo, and valence change by genre over the years 2010-2019?
+•What is the average duration of songs based on genre? Is the difference between each average and the overall average statistically significant?
 
-•	What is the average duration of songs based on the following genre: edm (electronic dance music), latin, (pop)popular, (r&b) rhythm & blues, rap and rock
+Are specific music keys favored? Has this changed over the 2010s? What does variation in the data look like by genre?
 
-•	Is there a statistical significance between the average duration by genre and the average duration.
+How much do acousticness, liveness, tempo, and valence vary between genres? How did they change by genre over the 2010 decade?
 
-•	In this timeframe, did genres favor the use of one key over the others? Did this vary by mode?
+Does competition affect song popularity?
 
 •	Is overall track popularity affected by the total number of track releases in the same month?
 
