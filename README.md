@@ -1,2 +1,2 @@
 # Project-One
-a shared repository for the first project
+See the readme in the Main file
