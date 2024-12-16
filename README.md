@@ -38,6 +38,7 @@ In order to generate these charts, we had to install pyplot for graphing charts,
 
 This project could be expanded by exploring more recent data using the Spotify API or merging more datasets about these songs. It could also be expanded upon by assessing the playlists and the song make up of the playlists.
 
+# Resources
 https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
 
 Outputs:
